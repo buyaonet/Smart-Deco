@@ -1,0 +1,15 @@
+F:\zyCoder\Smart-Deco\SmartDeco\ConsoleApp\bin\Debug\netcoreapp2.0\ConsoleApp.deps.json
+F:\zyCoder\Smart-Deco\SmartDeco\ConsoleApp\bin\Debug\netcoreapp2.0\ConsoleApp.runtimeconfig.json
+F:\zyCoder\Smart-Deco\SmartDeco\ConsoleApp\bin\Debug\netcoreapp2.0\ConsoleApp.runtimeconfig.dev.json
+F:\zyCoder\Smart-Deco\SmartDeco\ConsoleApp\bin\Debug\netcoreapp2.0\ConsoleApp.dll
+F:\zyCoder\Smart-Deco\SmartDeco\ConsoleApp\bin\Debug\netcoreapp2.0\SmartDeco.Domain.dll
+F:\zyCoder\Smart-Deco\SmartDeco\ConsoleApp\bin\Debug\netcoreapp2.0\SmartDeco.Repository.dll
+F:\zyCoder\Smart-Deco\SmartDeco\ConsoleApp\bin\Debug\netcoreapp2.0\SmartDeco.Repository.pdb
+F:\zyCoder\Smart-Deco\SmartDeco\ConsoleApp\bin\Debug\netcoreapp2.0\SmartDeco.Domain.pdb
+F:\zyCoder\Smart-Deco\SmartDeco\ConsoleApp\obj\Debug\netcoreapp2.0\ConsoleApp.csprojResolveAssemblyReference.cache
+F:\zyCoder\Smart-Deco\SmartDeco\ConsoleApp\obj\Debug\netcoreapp2.0\ConsoleApp.csproj.CoreCompileInputs.cache
+F:\zyCoder\Smart-Deco\SmartDeco\ConsoleApp\obj\Debug\netcoreapp2.0\ConsoleApp.AssemblyInfoInputs.cache
+F:\zyCoder\Smart-Deco\SmartDeco\ConsoleApp\obj\Debug\netcoreapp2.0\ConsoleApp.AssemblyInfo.cs
+F:\zyCoder\Smart-Deco\SmartDeco\ConsoleApp\bin\Debug\netcoreapp2.0\ConsoleApp.pdb
+F:\zyCoder\Smart-Deco\SmartDeco\ConsoleApp\obj\Debug\netcoreapp2.0\ConsoleApp.dll
+F:\zyCoder\Smart-Deco\SmartDeco\ConsoleApp\obj\Debug\netcoreapp2.0\ConsoleApp.pdb

@@ -1,0 +1,9 @@
+F:\zyCoder\Smart-Deco\SmartDeco\SmartDeco.Domain\bin\Debug\netcoreapp2.0\SmartDeco.Domain.deps.json
+F:\zyCoder\Smart-Deco\SmartDeco\SmartDeco.Domain\bin\Debug\netcoreapp2.0\SmartDeco.Domain.dll
+F:\zyCoder\Smart-Deco\SmartDeco\SmartDeco.Domain\bin\Debug\netcoreapp2.0\SmartDeco.Domain.pdb
+F:\zyCoder\Smart-Deco\SmartDeco\SmartDeco.Domain\obj\Debug\netcoreapp2.0\SmartDeco.Domain.csproj.CoreCompileInputs.cache
+F:\zyCoder\Smart-Deco\SmartDeco\SmartDeco.Domain\obj\Debug\netcoreapp2.0\SmartDeco.Domain.AssemblyInfoInputs.cache
+F:\zyCoder\Smart-Deco\SmartDeco\SmartDeco.Domain\obj\Debug\netcoreapp2.0\SmartDeco.Domain.AssemblyInfo.cs
+F:\zyCoder\Smart-Deco\SmartDeco\SmartDeco.Domain\obj\Debug\netcoreapp2.0\SmartDeco.Domain.dll
+F:\zyCoder\Smart-Deco\SmartDeco\SmartDeco.Domain\obj\Debug\netcoreapp2.0\SmartDeco.Domain.pdb
+F:\zyCoder\Smart-Deco\SmartDeco\SmartDeco.Domain\obj\Debug\netcoreapp2.0\SmartDeco.Domain.csprojResolveAssemblyReference.cache

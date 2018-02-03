@@ -1,0 +1,11 @@
+F:\zyCoder\Smart-Deco\SmartDeco\SmartDeco.WebApp\bin\Debug\netcoreapp2.0\SmartDeco.WebApp.deps.json
+F:\zyCoder\Smart-Deco\SmartDeco\SmartDeco.WebApp\bin\Debug\netcoreapp2.0\SmartDeco.WebApp.runtimeconfig.json
+F:\zyCoder\Smart-Deco\SmartDeco\SmartDeco.WebApp\bin\Debug\netcoreapp2.0\SmartDeco.WebApp.runtimeconfig.dev.json
+F:\zyCoder\Smart-Deco\SmartDeco\SmartDeco.WebApp\bin\Debug\netcoreapp2.0\SmartDeco.WebApp.dll
+F:\zyCoder\Smart-Deco\SmartDeco\SmartDeco.WebApp\bin\Debug\netcoreapp2.0\SmartDeco.WebApp.pdb
+F:\zyCoder\Smart-Deco\SmartDeco\SmartDeco.WebApp\obj\Debug\netcoreapp2.0\SmartDeco.WebApp.csprojResolveAssemblyReference.cache
+F:\zyCoder\Smart-Deco\SmartDeco\SmartDeco.WebApp\obj\Debug\netcoreapp2.0\SmartDeco.WebApp.csproj.CoreCompileInputs.cache
+F:\zyCoder\Smart-Deco\SmartDeco\SmartDeco.WebApp\obj\Debug\netcoreapp2.0\SmartDeco.WebApp.AssemblyInfoInputs.cache
+F:\zyCoder\Smart-Deco\SmartDeco\SmartDeco.WebApp\obj\Debug\netcoreapp2.0\SmartDeco.WebApp.AssemblyInfo.cs
+F:\zyCoder\Smart-Deco\SmartDeco\SmartDeco.WebApp\obj\Debug\netcoreapp2.0\SmartDeco.WebApp.dll
+F:\zyCoder\Smart-Deco\SmartDeco\SmartDeco.WebApp\obj\Debug\netcoreapp2.0\SmartDeco.WebApp.pdb

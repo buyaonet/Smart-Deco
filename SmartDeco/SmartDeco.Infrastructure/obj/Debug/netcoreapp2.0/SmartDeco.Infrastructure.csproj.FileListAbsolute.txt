@@ -1,0 +1,9 @@
+F:\zyCoder\Smart-Deco\SmartDeco\SmartDeco.Infrastructure\bin\Debug\netcoreapp2.0\SmartDeco.Infrastructure.deps.json
+F:\zyCoder\Smart-Deco\SmartDeco\SmartDeco.Infrastructure\bin\Debug\netcoreapp2.0\SmartDeco.Infrastructure.dll
+F:\zyCoder\Smart-Deco\SmartDeco\SmartDeco.Infrastructure\bin\Debug\netcoreapp2.0\SmartDeco.Infrastructure.pdb
+F:\zyCoder\Smart-Deco\SmartDeco\SmartDeco.Infrastructure\obj\Debug\netcoreapp2.0\SmartDeco.Infrastructure.csprojResolveAssemblyReference.cache
+F:\zyCoder\Smart-Deco\SmartDeco\SmartDeco.Infrastructure\obj\Debug\netcoreapp2.0\SmartDeco.Infrastructure.csproj.CoreCompileInputs.cache
+F:\zyCoder\Smart-Deco\SmartDeco\SmartDeco.Infrastructure\obj\Debug\netcoreapp2.0\SmartDeco.Infrastructure.AssemblyInfoInputs.cache
+F:\zyCoder\Smart-Deco\SmartDeco\SmartDeco.Infrastructure\obj\Debug\netcoreapp2.0\SmartDeco.Infrastructure.AssemblyInfo.cs
+F:\zyCoder\Smart-Deco\SmartDeco\SmartDeco.Infrastructure\obj\Debug\netcoreapp2.0\SmartDeco.Infrastructure.dll
+F:\zyCoder\Smart-Deco\SmartDeco\SmartDeco.Infrastructure\obj\Debug\netcoreapp2.0\SmartDeco.Infrastructure.pdb
