@@ -9,3 +9,5 @@ F:\zyCoder\Smart-Deco\SmartDeco\SmartDeco.WebApp\obj\Debug\netcoreapp2.0\SmartDe
 F:\zyCoder\Smart-Deco\SmartDeco\SmartDeco.WebApp\obj\Debug\netcoreapp2.0\SmartDeco.WebApp.AssemblyInfo.cs
 F:\zyCoder\Smart-Deco\SmartDeco\SmartDeco.WebApp\obj\Debug\netcoreapp2.0\SmartDeco.WebApp.dll
 F:\zyCoder\Smart-Deco\SmartDeco\SmartDeco.WebApp\obj\Debug\netcoreapp2.0\SmartDeco.WebApp.pdb
+F:\zyCoder\Smart-Deco\SmartDeco\SmartDeco.WebApp\bin\Debug\netcoreapp2.0\SmartDeco.Infrastructure.dll
+F:\zyCoder\Smart-Deco\SmartDeco\SmartDeco.WebApp\bin\Debug\netcoreapp2.0\SmartDeco.Infrastructure.pdb

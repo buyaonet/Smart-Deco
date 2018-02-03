@@ -60,8 +60,13 @@ namespace SmartDeco.Domain.Core
         /// </summary>
         [Required]
         [Display(Name ="创建时间")]
-        public int CreateTime { get; set; }
-
+        public long CreateTime { get; set; }
+        /// <summary>
+        /// 0 已删除 1 正常 
+        /// </summary>
+        [Required]
+        [Display(Name ="状态")]
+        public int Status { get; set; }
         public virtual List<UserRole> UserRoles{ get; set; }
         public virtual List<Room> Rooms { get; set; }
 

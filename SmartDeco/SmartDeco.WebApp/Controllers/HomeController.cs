@@ -5,6 +5,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using SmartDeco.WebApp.Models;
+using SmartDeco.Infrastructure.Logger;
 
 namespace SmartDeco.WebApp.Controllers
 {

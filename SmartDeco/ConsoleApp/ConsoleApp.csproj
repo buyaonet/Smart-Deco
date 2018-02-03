@@ -11,7 +11,14 @@
 
   <ItemGroup>
     <ProjectReference Include="..\SmartDeco.Domain\SmartDeco.Domain.csproj" />
+    <ProjectReference Include="..\SmartDeco.Infrastructure\SmartDeco.Infrastructure.csproj" />
     <ProjectReference Include="..\SmartDeco.Repository\SmartDeco.Repository.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="Config\log4net.config">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
   </ItemGroup>
 
 </Project>

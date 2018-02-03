@@ -13,3 +13,6 @@ F:\zyCoder\Smart-Deco\SmartDeco\ConsoleApp\obj\Debug\netcoreapp2.0\ConsoleApp.As
 F:\zyCoder\Smart-Deco\SmartDeco\ConsoleApp\bin\Debug\netcoreapp2.0\ConsoleApp.pdb
 F:\zyCoder\Smart-Deco\SmartDeco\ConsoleApp\obj\Debug\netcoreapp2.0\ConsoleApp.dll
 F:\zyCoder\Smart-Deco\SmartDeco\ConsoleApp\obj\Debug\netcoreapp2.0\ConsoleApp.pdb
+F:\zyCoder\Smart-Deco\SmartDeco\ConsoleApp\bin\Debug\netcoreapp2.0\Config\log4net.config
+F:\zyCoder\Smart-Deco\SmartDeco\ConsoleApp\bin\Debug\netcoreapp2.0\SmartDeco.Infrastructure.dll
+F:\zyCoder\Smart-Deco\SmartDeco\ConsoleApp\bin\Debug\netcoreapp2.0\SmartDeco.Infrastructure.pdb
