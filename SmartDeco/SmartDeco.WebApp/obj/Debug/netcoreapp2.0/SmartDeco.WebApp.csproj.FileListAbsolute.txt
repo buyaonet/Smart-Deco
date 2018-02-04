@@ -11,3 +11,4 @@ F:\zyCoder\Smart-Deco\SmartDeco\SmartDeco.WebApp\obj\Debug\netcoreapp2.0\SmartDe
 F:\zyCoder\Smart-Deco\SmartDeco\SmartDeco.WebApp\obj\Debug\netcoreapp2.0\SmartDeco.WebApp.pdb
 F:\zyCoder\Smart-Deco\SmartDeco\SmartDeco.WebApp\bin\Debug\netcoreapp2.0\SmartDeco.Infrastructure.dll
 F:\zyCoder\Smart-Deco\SmartDeco\SmartDeco.WebApp\bin\Debug\netcoreapp2.0\SmartDeco.Infrastructure.pdb
+F:\zyCoder\Smart-Deco\SmartDeco\SmartDeco.WebApp\bin\Debug\netcoreapp2.0\wwwroot\Config\log4net.config

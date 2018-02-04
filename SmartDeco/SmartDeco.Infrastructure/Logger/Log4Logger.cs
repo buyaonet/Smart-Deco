@@ -36,7 +36,7 @@ namespace SmartDeco.Infrastructure.Logger
 
         static Log4Logger()
         {
-            LogConfig = Path.Combine(AppContext.BaseDirectory, "Config", "log4net.config");
+            LogConfig = Path.Combine(ConfigHelper.Instance.GetRoot(), "Config", "log4net.config");
             ILoggerRepository repository = LogManager.CreateRepository("SmartDeco");
             XmlConfigurator.ConfigureAndWatch(repository, new FileInfo(LogConfig));
             logImpl = LogManager.GetLogger(repository.Name,"SmartDeco");

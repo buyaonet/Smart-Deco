@@ -26,7 +26,7 @@ namespace SmartDeco.Infrastructure.Logger
         protected static string FilePath { get; set; }
         public LoggerBase()
         {
-            FilePath = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "LogDir");
+            FilePath = Path.Combine(ConfigHelper.Instance.GetRoot(), "LogDir");
         }
 
         /// <summary>

@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using SmartDeco.WebApp.Models;
 using SmartDeco.Infrastructure.Logger;
+using SmartDeco.Infrastructure;
 
 namespace SmartDeco.WebApp.Controllers
 {
@@ -13,6 +14,7 @@ namespace SmartDeco.WebApp.Controllers
     {
         public IActionResult Index()
         {
+            LoggerFactory.Instance.Logger_Info("123");
             return View();
         }
 

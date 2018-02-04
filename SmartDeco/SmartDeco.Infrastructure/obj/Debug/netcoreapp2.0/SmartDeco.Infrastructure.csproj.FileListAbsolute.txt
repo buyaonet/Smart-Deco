@@ -7,3 +7,7 @@ F:\zyCoder\Smart-Deco\SmartDeco\SmartDeco.Infrastructure\obj\Debug\netcoreapp2.0
 F:\zyCoder\Smart-Deco\SmartDeco\SmartDeco.Infrastructure\obj\Debug\netcoreapp2.0\SmartDeco.Infrastructure.AssemblyInfo.cs
 F:\zyCoder\Smart-Deco\SmartDeco\SmartDeco.Infrastructure\obj\Debug\netcoreapp2.0\SmartDeco.Infrastructure.dll
 F:\zyCoder\Smart-Deco\SmartDeco\SmartDeco.Infrastructure\obj\Debug\netcoreapp2.0\SmartDeco.Infrastructure.pdb
+F:\zyCoder\Smart-Deco\SmartDeco\SmartDeco.Infrastructure\bin\Debug\netcoreapp2.0\Microsoft.AspNetCore.Hosting.Abstractions.dll
+F:\zyCoder\Smart-Deco\SmartDeco\SmartDeco.Infrastructure\bin\Debug\netcoreapp2.0\Microsoft.AspNetCore.Http.Abstractions.dll
+F:\zyCoder\Smart-Deco\SmartDeco\SmartDeco.Infrastructure\bin\Debug\netcoreapp2.0\Microsoft.AspNetCore.Hosting.Abstractions.xml
+F:\zyCoder\Smart-Deco\SmartDeco\SmartDeco.Infrastructure\bin\Debug\netcoreapp2.0\Microsoft.AspNetCore.Http.Abstractions.xml

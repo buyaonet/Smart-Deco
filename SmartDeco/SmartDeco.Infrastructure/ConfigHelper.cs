@@ -32,6 +32,8 @@ namespace SmartDeco.Infrastructure
         }
         private static object obj = new object();
         private static ConfigHelper _Instance;
+
+        public string WwwPath = string.Empty;
         public static ConfigHelper Instance
         {
             get
@@ -51,15 +53,30 @@ namespace SmartDeco.Infrastructure
         }
 
         /// <summary>
-        /// 获取节点
+        /// 获取节点 apsettingg
         /// </summary>
         /// <param name="key"></param>
         /// <returns></returns>
         public string GetSection(string key)
-        {
+        {            
             return Configuration[key];
         }
 
-       
+        /// <summary>
+        /// 加载wwwroot路径
+        /// </summary>
+        /// <param name="path"></param>
+        public void SetRoot(string path)
+        {
+            this.WwwPath = path;
+        }
+        /// <summary>
+        /// 获取wwwrooot路径
+        /// </summary>
+        /// <returns></returns>
+        public string GetRoot()
+        {
+            return this.WwwPath;
+        }
     }
 }

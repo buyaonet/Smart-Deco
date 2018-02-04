@@ -6,6 +6,7 @@ using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
+using SmartDeco.Infrastructure;
 
 namespace SmartDeco.WebApp
 {
@@ -27,6 +28,8 @@ namespace SmartDeco.WebApp
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
         public void Configure(IApplicationBuilder app, IHostingEnvironment env)
         {
+            ConfigHelper.Instance.SetRoot(env.WebRootPath);
+           
             if (env.IsDevelopment())
             {
                 app.UseDeveloperExceptionPage();
@@ -36,7 +39,7 @@ namespace SmartDeco.WebApp
             {
                 app.UseExceptionHandler("/Home/Error");
             }
-
+            
             app.UseStaticFiles();
 
             app.UseMvc(routes =>
