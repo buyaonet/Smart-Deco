@@ -12,6 +12,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\SmartDeco.Domain\SmartDeco.Domain.csproj" />
+    <ProjectReference Include="..\SmartDeco.Infrastructure\SmartDeco.Infrastructure.csproj" />
   </ItemGroup>
 
 </Project>
